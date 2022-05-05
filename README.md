@@ -2,9 +2,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-miguel-moscardini-24737a222) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.miguelv/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516991296669)
 
 <div align="center">
-<a target="_blank" href="https://github.com/JoaoMiguelv">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMiguelv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiguelv&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/JoaoMiguelv">
+<img height="180em" target="_blank" src="https://github-readme-stats.vercel.app/api?username=JoaoMiguelv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiguelv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Tecnologias:
