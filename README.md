@@ -12,6 +12,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiguelv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+    
 ### Tecnologias:
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
